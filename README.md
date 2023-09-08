@@ -4,3 +4,5 @@ Our "Sun-sync Bluetooth-Controlled Remote Car project" showcases the perfect fus
 Our project centers around designing and building a remote-controlled car that is controlled via a smartphone or tablet using Bluetooth technology. Here's an insight into the key features and components of our creation:
 
 Tools/Technologies used: Aurdino IDLE, Solar pannel ,SPB Bluetooth manager.
+
+The programming language used in the code you provided is the Arduino programming language. It's a variation of C/C++ with specific libraries and functions designed for programming Arduino microcontrollers and similar development boards.
